@@ -1,0 +1,16 @@
+C:\Users\PRF\Desktop\Tamashi\Nova pasta\10-05\descontoCombustivel\bin\Debug\net5.0\descontoCombustivel.exe
+C:\Users\PRF\Desktop\Tamashi\Nova pasta\10-05\descontoCombustivel\bin\Debug\net5.0\descontoCombustivel.deps.json
+C:\Users\PRF\Desktop\Tamashi\Nova pasta\10-05\descontoCombustivel\bin\Debug\net5.0\descontoCombustivel.runtimeconfig.json
+C:\Users\PRF\Desktop\Tamashi\Nova pasta\10-05\descontoCombustivel\bin\Debug\net5.0\descontoCombustivel.runtimeconfig.dev.json
+C:\Users\PRF\Desktop\Tamashi\Nova pasta\10-05\descontoCombustivel\bin\Debug\net5.0\descontoCombustivel.dll
+C:\Users\PRF\Desktop\Tamashi\Nova pasta\10-05\descontoCombustivel\bin\Debug\net5.0\ref\descontoCombustivel.dll
+C:\Users\PRF\Desktop\Tamashi\Nova pasta\10-05\descontoCombustivel\bin\Debug\net5.0\descontoCombustivel.pdb
+C:\Users\PRF\Desktop\Tamashi\Nova pasta\10-05\descontoCombustivel\obj\Debug\net5.0\descontoCombustivel.csprojAssemblyReference.cache
+C:\Users\PRF\Desktop\Tamashi\Nova pasta\10-05\descontoCombustivel\obj\Debug\net5.0\descontoCombustivel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PRF\Desktop\Tamashi\Nova pasta\10-05\descontoCombustivel\obj\Debug\net5.0\descontoCombustivel.AssemblyInfoInputs.cache
+C:\Users\PRF\Desktop\Tamashi\Nova pasta\10-05\descontoCombustivel\obj\Debug\net5.0\descontoCombustivel.AssemblyInfo.cs
+C:\Users\PRF\Desktop\Tamashi\Nova pasta\10-05\descontoCombustivel\obj\Debug\net5.0\descontoCombustivel.csproj.CoreCompileInputs.cache
+C:\Users\PRF\Desktop\Tamashi\Nova pasta\10-05\descontoCombustivel\obj\Debug\net5.0\descontoCombustivel.dll
+C:\Users\PRF\Desktop\Tamashi\Nova pasta\10-05\descontoCombustivel\obj\Debug\net5.0\ref\descontoCombustivel.dll
+C:\Users\PRF\Desktop\Tamashi\Nova pasta\10-05\descontoCombustivel\obj\Debug\net5.0\descontoCombustivel.pdb
+C:\Users\PRF\Desktop\Tamashi\Nova pasta\10-05\descontoCombustivel\obj\Debug\net5.0\descontoCombustivel.genruntimeconfig.cache
